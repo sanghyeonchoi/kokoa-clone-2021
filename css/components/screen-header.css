@@ -15,3 +15,10 @@
 .screen-header__icons span {
   margin-left: 25px;
 }
+.screen-header__alarm {
+  background-color: tomato;
+  position: relative;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}

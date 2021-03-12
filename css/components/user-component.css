@@ -20,7 +20,7 @@
 .user-component__subtitle {
   margin-top: 8px;
   font-size: 17px;
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--grey);
 }
 .user-component__avatar--xl {
   width: 80px;
@@ -45,4 +45,8 @@
 .user-component__time {
   margin-bottom: 15px;
   display: block;
+}
+.user-component__subtitle i {
+  color: tomato;
+  margin-left: 5px;
 }
